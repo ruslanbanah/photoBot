@@ -1,0 +1,14 @@
+{
+  "name": "photoBot",
+  "version": "1.0.0",
+  "description": "Photo bot",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0",
+    "trello-node-api": "^0.0.7"
+  }
+}
